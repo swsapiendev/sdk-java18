@@ -19,9 +19,9 @@
     <coveralls-maven-plugin.version>4.3.0</coveralls-maven-plugin.version>
   </properties>
   <scm>
-    <url>https://github.com/lunasoft/sdk-java18</url>
-    <connection>scm:git:git@github.com:lunasoft/sdk-java18.git</connection>
-    <developerConnection>scm:git:git@github.com:lunasoft/sdk-java18.git</developerConnection>
+    <url>https://github.com/swsapiendev/sdk-java18</url>
+    <connection>scm:git:git@github.com:swsapiendev/sdk-java18.git</connection>
+    <developerConnection>scm:git:git@github.com:swsapiendev/sdk-java18.git</developerConnection>
   </scm>
   <distributionManagement>
     <snapshotRepository>

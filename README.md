@@ -29,7 +29,7 @@ Instalar solo si se descarga e instala de manera manual la librería. De igual m
 
 ### Documentación
 * [Inicio Rápido](https://developers.sw.com.mx/knowledge-base/conoce-el-proceso-de-integracion-en-solo-7-pasos/)
-* Documentación disponible a través de GitHub Pages en el siguiente enlace: [sdk-java18](https://lunasoft.github.io/sdk-java18/)
+* Documentación disponible a través de GitHub Pages en el siguiente enlace: [sdk-java18](https://swsapiendev.github.io/sdk-java18/)
 * [Documentacion Oficial Servicios](http://developers.sw.com.mx)
 
 ---
